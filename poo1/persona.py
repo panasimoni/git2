@@ -9,7 +9,7 @@ class Persona :
 
         def cumpleanios(self):
             self.anios += 1 
-            self.imprimir()
+            sel f.imprimir()
 
     if __name__ == "__main__":
         obama = Persona("Obama", 62)
