@@ -2,7 +2,7 @@
 
 #2 Que paalbra reservada hay que utilizar para crear un nuevo objeto
 
-from alumno import alumno
+from git2.alumno import alumno
 
 
 
