@@ -7,6 +7,7 @@ def intDiv(a:int, b:int)->int:
         print("Realizamos tareas de control de cierre")
 
 
+
 #si es el flujo principal
 if __name__ == "__main__":
     for i in range(30):
